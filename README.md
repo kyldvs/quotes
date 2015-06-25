@@ -10,10 +10,6 @@ Wisdom
 
 — _Buddha_
 
-> "I don't know half of you half as well as I should like, and I like less than half of you half as well as you deserve."
-
-— _Bilbo Baggins_
-
 > "I am the wisest man alive, for I know one thing, and that is that I know nothing."
 
 — _Socrates_
@@ -37,6 +33,10 @@ Wisdom
 Insults
 -------
 
+> "I don't know half of you half as well as I should like, and I like less than half of you half as well as you deserve."
+
+— _Bilbo Baggins_
+
 > "Don't be so humble, you're not that great."
 
 — _Golda Meir_
@@ -55,6 +55,10 @@ Insults
 
 Humorous
 --------
+
+> "If guns don't kill people, people kill people; does that mean toasters don't toast toast, toast toasts toast?"
+
+— _Unknown_
 
 > "There's a fine line between fishing and standing on the shore like an idiot."
 
